@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Home -->
+    <string name="home_title">Home Sample</string>
+    <string name="show_all_apps">All</string>
+
+    <!-- Home Menus -->
+    <string name="menu_wallpaper">Wallpaper</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+
+    <!-- Wallpaper -->
+    <string name="wallpaper_instructions">Tap picture to set portrait wallpaper</string>
+
+    <string name="app_name">Launcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="launch_app">LaunchApp</string>
+    <string name="update_app">update</string>
+    <string name="favorite_app">Favorite</string>
+    <string name="remove_app">Uninstall application</string>
+    <string name="autorun">Autorun application</string>
+    <string name="remove_item">Remove item</string>
+    <string name="app_store">AppStore</string>
+    <string name="check_your_network">Please check your network connection！</string>
+    <string name="start_clear">Start scanning</string>
+    <string name="in_clear">cleaning</string>
+    <string name="clean_up_the_garbage">Clearing up the rubbish</string>
+    <string name="cleaning_up">Clearing up</string>
+    <string name="unit">MB</string>
+    <string name="eliminate_num">Number of processes:</string>
+    <string name="start_eliminate_process">start clean</string>
+    <string name="timing_clear">Regularly cleaned</string>
+    <string name="stop_timing_clear">Stop Regularly cleaned</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="unnamed">Unnamed</string>
+
+    <string name="indicator_item_service_text">service</string>
+    <string name="indicator_item_setting_text">setting</string>
+    <string name="indicator_item_app_text">app</string>
+
+    <!-- Layouts -->
+    <string name="bluetooth_setting">Bluetooth setting</string>
+    <string name="bluetooth_switch">Turn on/off</string>
+    <string name="bluetooth_device_detection_switch">Device detection on/off</string>
+    <string name="bluetooth_device_search">Search device</string>
+    <string name="bluetooth_pairable_device">Pairable devices</string>
+    <string name="bluetooth_unpaired">Unpaired</string>
+    <string name="bluetooth_unpair">Unpair</string>
+    <string name="bluetooth_discovered_devices">Discovered devices</string>
+    <string name="bluettoth">Bluetooth</string>
+
+    <string name="wired_network_setting">Wired network setting</string>
+    <string name="network_unavailable_message">The network is unavailable, please check if the network cable is plugged in</string>
+    <string name="network_bluetooth">Network and bluetooth</string>
+    <string name="wired_network">Wired network (Ethernet)</string>
+    <string name="wireless_network">Wireless network (Wifi)</string>
+
+    <string name="network_speed_measurement">Network speed measurement</string>
+    <string name="recommended_network_speed">Recommended speed for you</string>
+    <string name="start_netwrork_speed_measurement">Start speed measurement</string>
+    <string name="network_speed_measurement_in_progress_message">Speed measuring, please wait...</string>
+    <string name="network_speed_measurement_stop">Stop measurement speed</string>
+    <string name="network_speed_test_result">Speed test results:</string>
+    <string name="current_speed_suitable">Your speed is suitable for viewing</string>
+    <string name="hd_movie">HD movie</string>
+    <string name="speed_again">Speed again</string>
+    <string name="speed_up">Speed up</string>
+
+    <string name="connected">Connected</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="connecting">Connecting</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="connection_succeeded">Connection succeeded</string>
+    <string name="connected_to">connected to</string>
+
+    <string name="wifi_connect">Connect to WIFI</string>
+    <string name="wifi_password_message">Please enter WIFI password</string>
+    <string name="wifi_password">WIFI password:</string>
+    <string name="wifi_name">WIFI name:</string>
+    <string name="wifi_name_message">Your WIFI name</string>
+    <string name="wifi_connection">WIFI connection</string>
+    <string name="turn_on_wifi">Turn On WIFI!</string>
+    <string name="turn_off_wifi">Turn Off WIFI!</string>
+    <string name="wifi_message_1">WIFI is not turn on</string>
+    <string name="wifi_message_disable">WIFI is not turn on</string>
+    <string name="wifi_message_unknown">WIFI state is unknown</string>
+    <string name="scannig_near_wifi">Scanning nearby WIFI</string>
+    <string name="near_wifi">Nearby WIFI</string>
+    <string name="wifi_is_off">WIFI is off</string>
+    <string name="no_wifi_connection1">No WIFI connection</string>
+    <string name="no_wifi_connection2">No connection, Please choose the approriate WIFI connection.</string>
+    <string name="wifi_message_2">or if switch on the wired network, please connect the network cable</string>
+    <string name="wifi_message_3">This network is currently connected.</string>
+    <string name="wifi_already_on">WIFI already is on</string>
+
+
+    <string name="zero_date">"0000-00-00"</string>
+    <string name="zero">"0"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_app">Edit application</string>
+    <string name="qidong_app">Turn on</string>
+    <string name="surolus_memory">Free memory</string>
+
+    <string name="smile_tv">Smile TV</string>
+    <string name="increase_speed_default_rate">3.97%</string>
+    <string name="freed_memory_dafault_size">56.35MB</string>
+    <string name="bluetooth_pairing">Pairing...</string>
+    <string name="bluettoth_not_available">Bluetooth is not available!</string>
+    <string name="bluetooth_unpairing">Unpairing...</string>
+    <string name="bluetooth_unpairing_failed">Unpairing Failed!</string>
+    <string name="connected_wired_network">Connected to a wired network</string>
+    <string name="connected_wifi">Connected to a WIFI</string>
+    <string name="no_current_cleanup_required">No current cleanup required</string>
+    <string name="clean_up">Clean up</string>
+    <string name="start_cleaning">Start cleaning</string>
+    <string name="find_it">Find it</string>
+    <string name="scanning">Scanning</string>
+    <string name="puqing_movie">Puqing movie</string>
+    <string name="ultra_clear_movie">Ultra clear movie</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidTVLauncher-2.0.iml" filepath="$PROJECT_DIR$/AndroidTVLauncher-2.0.iml" group="AndroidTVLauncher-2.0" />
+      <module fileurl="file://$PROJECT_DIR$/CatLauncher/CatLauncher.iml" filepath="$PROJECT_DIR$/CatLauncher/CatLauncher.iml" group="AndroidTVLauncher-2.0/CatLauncher" />
+      <module fileurl="file://$PROJECT_DIR$/CompatibleLauncher/CompatibleLauncher.iml" filepath="$PROJECT_DIR$/CompatibleLauncher/CompatibleLauncher.iml" group="AndroidTVLauncher-2.0/CompatibleLauncher" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" group="AndroidTVLauncher-2.0/common" />
+      <module fileurl="file://$PROJECT_DIR$/uikit/uikit.iml" filepath="$PROJECT_DIR$/uikit/uikit.iml" group="AndroidTVLauncher-2.0/uikit" />
+    </modules>
+  </component>
+</project>
